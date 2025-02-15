@@ -46,7 +46,7 @@ export default function FollowingFeed() {
   if (status === "error") {
     return (
       <p className="text-center text-destructive">
-        An error occured while loading posts.
+        An error occured while loading posts
       </p>
     );
   }
