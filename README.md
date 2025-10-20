@@ -6,9 +6,11 @@ This project was a partnership between the City of Portland, Maine's Office of E
 
 **IMPORTANT**: After cloning the repo, open the command line inside the project and run `npm i --legacy-peer-deps`.
 
-Before running the project, you’ll need to create a `.env` file in the root directory and add the following environment variables::
 
-#Vercel Postgres
+
+Before running the project, you’ll need to create a `.env` file in the root directory and add the following environment variables:
+
+#Vercel Postgres<br>
 `POSTGRES_URL=******************************************`<br>
 `POSTGRES_URL_NON_POOLING=******************************************`<br>
 `POSTGRES_USER=********`<br>
@@ -18,15 +20,15 @@ Before running the project, you’ll need to create a `.env` file in the root di
 `POSTGRES_URL_NO_SSL=*****************************************`<br>
 `POSTGRES_PRISMA_URL=*********************************************************`
 
-#UploadThing
+#UploadThing<br>
 `UPLOADTHING_SECRET='***********************************'`<br>
 `NEXT_PUBLIC_UPLOADTHING_APP_ID='**********'`
 
-#Stream Chat
+#Stream Chat<br>
 `NEXT_PUBLIC_STREAM_KEY='***********'`<br>
 `STREAM_SECRET='*******************'`
 
-#Other
+#Other<br>
 `CRON_SECRET='*******************'`
 
 Note: These values are private and must be obtained from your own Vercel, UploadThing, and Stream Chat accounts. Include `.env*` in the .gitignore file so these are not committed to version control.
