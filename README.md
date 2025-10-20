@@ -1,3 +1,3 @@
-This is the starting code for this tutorial.
+# ESOL Communication App
 
 **IMPORTANT**: After cloning the repo, open the command line inside the project and run `npm i --legacy-peer-deps`.
