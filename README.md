@@ -1,6 +1,6 @@
 # ESOL Communication App
 
-This project was a partnership between the City of Portland, Maine's Office of Economic Opportunity. Adapted from an online tutorial by Coding in Flow, our team developed a central platform for the ESOL Collaborative educators to communicate and share resources.
+This project was a partnership with the City of Portland, Maine's Office of Economic Opportunity. Adapted from an online tutorial by Coding in Flow, our team developed a central application for the city's [ESOL Collaborative](https://www.portlandmaine.gov/1537/ESOL-Collaborative) educators to communicate, share resources, and schedule meetings.
 
 **IMPORTANT**: After cloning the repo, open the command line inside the project and run `npm i --legacy-peer-deps`.
 
