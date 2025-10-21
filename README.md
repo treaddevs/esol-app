@@ -6,7 +6,7 @@ This project was a partnership between the City of Portland, Maine's Office of E
 
 ![ESOL App Screenshot](/documentation/esol-home.png)
 
-<a href="/documentation/esol-app.pdf" target="_blank" rel="noopener noreferrer">SSD Documentation</a>
+<a href="/documentation/esol-app.pdf" target="_blank" rel="noopener noreferrer">Software Design Documentation</a>
 
 Before running the project, you’ll need to create a `.env` file in the root directory and add the following environment variables:
 
