@@ -32,4 +32,4 @@ Before running the project, you’ll need to create a `.env` file in the root di
 **\# Other**<br>
 `CRON_SECRET='*******************'`
 
-Note: These values are private and must be obtained from your own Vercel, UploadThing, and Stream Chat accounts. Include `.env*` in the .gitignore file so these are not committed to version control.
+**NOTE:** These values are *private* and must be obtained from your own Vercel, UploadThing, and Stream Chat accounts. Include `.env*` in the `.gitignore` file so these are not committed to version control.
