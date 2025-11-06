@@ -6,10 +6,10 @@ This modern web application using Next.js 15, React Query, Lucia Auth, TypeScrip
 
 ![ESOL App Screenshot](/documentation/esol-home.png)
 
+<a href="/documentation/esol-app.pdf" target="_blank" rel="noopener noreferrer">Software Design Documentation (SDD)</a>
+
 **IMPORTANT**: After cloning the repo, open the terminal inside the project and run `npm i --legacy-peer-deps`<br>
 (this addresses release candidate dependencies)
-
-<a href="/documentation/esol-app.pdf" target="_blank" rel="noopener noreferrer">Software Design Documentation (SDD)</a>
 
 Before running the project, you’ll need to create a `.env` file in the root directory and add the following environment variables:
 
