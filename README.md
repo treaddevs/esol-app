@@ -4,10 +4,10 @@ This course capstone project was a partnership with the City of Portland, Maine'
 
 This modern web application using Next.js 15, React Query, Lucia Auth, TypeScript, and Tailwind CSS is intended to support the city's [ESOL Collaborative](https://www.portlandmaine.gov/1537/ESOL-Collaborative) – to help organization members communicate, share resources, and schedule meetings.
 
+![ESOL App Screenshot](/documentation/esol-home.png)
+
 **IMPORTANT**: After cloning the repo, open the terminal inside the project and run `npm i --legacy-peer-deps`<br>
 (this addresses release candidate dependencies)
-
-![ESOL App Screenshot](/documentation/esol-home.png)
 
 <a href="/documentation/esol-app.pdf" target="_blank" rel="noopener noreferrer">Software Design Documentation (SDD)</a>
 
