@@ -1,9 +1,9 @@
 # ESOL Communication App
 
-This project was a partnership with the City of Portland, Maine's Office of Economic Opportunity. It was adapted from an fullstack online tutorial by Coding in Flow. This modern web application is intended to support the city's [ESOL Collaborative](https://www.portlandmaine.gov/1537/ESOL-Collaborative) – to help organization members communicate, share resources, and schedule meetings.
+This course capstone project was a partnership with the City of Portland, Maine's Office of Economic Opportunity. It was adapted from an online social media app [tutorial](https://www.youtube.com/watch?v=TyV12oBDsYI) by Coding in Flow [(@codinginflow)](https://github.com/codinginflow). This modern web application using Next.js 15, React Query, Lucia Auth, TypeScript, and Tailwind CSS is intended to support the city's [ESOL Collaborative](https://www.portlandmaine.gov/1537/ESOL-Collaborative) – to help organization members communicate, share resources, and schedule meetings.
 
 **IMPORTANT**: After cloning the repo, open the terminal inside the project and run `npm i --legacy-peer-deps`<br>
-// (this addresses release candidate dependencies)
+(this addresses release candidate dependencies)
 
 ![ESOL App Screenshot](/documentation/esol-home.png)
 
